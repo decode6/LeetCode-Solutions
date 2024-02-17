@@ -9,6 +9,6 @@ var createHelloWorld = function() {
 };
 
 /**
- * const f = createHelloWorld();
+ * const foo = createHelloWorld();
  * f(); // "Hello World"
  */
